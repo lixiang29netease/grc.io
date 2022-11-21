@@ -1,1 +1,1 @@
-FROM gcr.io/spark-operator/spark:v2.4.5
+FROM nvidia/cuda:10.1-cudnn8-devel-ubuntu18.04
